@@ -1,8 +1,6 @@
 # bug bounty writeups
 A list of available Bug Bounty &amp; Disclosure Programs and Write-ups.
 
-# anchors in markdown
-
 # Table of Contents
 * [Cross Site Scripting (XSS)](#cross-site-scripting-xss)
 * [Cross Site Request Forgery (CSRF)](#cross-site-request-forgery-csrf)
@@ -33,68 +31,68 @@ A list of available Bug Bounty &amp; Disclosure Programs and Write-ups.
 * [Information disclosure](#information-disclosure)
   
 
-# Cross Site Scripting (XSS)
+### Cross Site Scripting (XSS)
 
-# Cross Site Request Forgery (CSRF)
+### Cross Site Request Forgery (CSRF)
 
-# Clickjacking (UI Redressing Attack)
+### Clickjacking (UI Redressing Attack)
 
-# Local File Inclusion (LFI)
+### Local File Inclusion (LFI)
 
-# Subdomain Takeover
+### Subdomain Takeover
 
-# Denial of Service (DOS)
+### Denial of Service (DOS)
 
-# Authentication Bypass
+### Authentication Bypass
 
-# SQL injection
+### SQL injection
 
-# Insecure Direct Object Reference (IDOR)
+### Insecure Direct Object Reference (IDOR)
 
-# 2FA Related issues
+### 2FA Related issues
 
-# Server Side Request Forgery (SSRF)
+### Server Side Request Forgery (SSRF)
 
-# Race Condition
+### Race Condition
 
-# Remote Code Execution (RCE)
+### Remote Code Execution (RCE)
 
-# External XML Entity Attack (XXE)
+### External XML Entity Attack (XXE)
 
-# Insecure Deserialization
+### Insecure Deserialization
 
 * [How i found a 1500$ worth Deserialization vulnerability](https://medium.com/@D0rkerDevil/how-i-found-a-1500-worth-deserialization-vulnerability-9ce753416e0a)
 * [Remote code execution through unsafe unserialize in PHP](https://www.sjoerdlangkemper.nl/2021/04/04/remote-code-execution-through-unsafe-unserialize/)
 
-# Business Logic Flaw
+### Business Logic Flaw
 
-# HTTP Header Injection
+### HTTP Header Injection
 
-# Server-Side Template Injection (SSTI)
+### Server-Side Template Injection (SSTI)
 
-# Broken link hijacking (BLH)
+### Broken link hijacking (BLH)
 
-# DOM-based vulnerabilities
+### DOM-based vulnerabilities
 
-# Cross-origin resource sharing (CORS)
+### Cross-origin resource sharing (CORS)
 
-# HTTP request smuggling
+### HTTP request smuggling
 
-# OS command injection
+### OS command injection
 
-# Directory traversal
+### Directory traversal
 
-# WebSockets Attack
+### WebSockets Attack
 
-# Web cache poisoning
+### Web cache poisoning
 
-# Information disclosure
+### Information disclosure
 
 
 
-# Made By
+### Made By
 kh4sh3i
 
 
-# License
+### License
  CC0-1.0 License
