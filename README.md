@@ -29,6 +29,7 @@ A list of available Bug Bounty &amp; Disclosure Programs and Write-ups.
 * [WebSockets Attack](#websockets-attack)
 * [Web cache poisoning](#web-cache-poisoning)
 * [Information disclosure](#information-disclosure)
+* [CRLF injection](#crlf-injection)
   
 
 ### Cross Site Scripting (XSS)
@@ -86,7 +87,16 @@ A list of available Bug Bounty &amp; Disclosure Programs and Write-ups.
 
 ### Web cache poisoning
 
+* [Breaking GitHub Private Pages for $35k](https://robertchen.cc/blog/2021/04/03/github-pages-xss)
+* [Automate Cache Poisoning Vulnerability - Nuclei](https://blog.melbadry9.xyz/fuzzing/nuclei-cache-poisoning)
+* [Poisoning your Cache for 1000$ - Approach to Exploitation Walkthrough](https://galnagli.com/Cache_Poisoning/)
+* [Cache Poisoning DoS](https://iustin24.github.io/Cache-Key-Normalization-Denial-of-Service/)
+* [EN | Account Takeover via Web Cache Poisoning based Reflected XSS](https://lutfumertceylan.com.tr/posts/acc-takeover-web-cache-xss/)
+* [Chaining Cache Poisoning To Stored XSS](https://medium.com/@nahoragg/chaining-cache-poisoning-to-stored-xss-b910076bda4f)
+
 ### Information disclosure
+
+### CRLF injection
 
 
 
