@@ -11,7 +11,7 @@ A list of available Bug Bounty &amp; Disclosure Programs and Write-ups.
 * [Authentication Bypass](#authentication-bypass)
 * [SQL injection](#sql-injection)
 * [Insecure Direct Object Reference (IDOR)](#insecure-direct-object-reference-idor)
-* [2FA Related issues](#2fa-related-issues)
+* [2FA bypass](#2fa-bypass)
 * [Server Side Request Forgery (SSRF)](#server-side-request-forgery-ssrf)
 * [Race Condition](#race-condition)
 * [Remote Code Execution (RCE)](#remote-code-execution-rce)
@@ -50,7 +50,17 @@ A list of available Bug Bounty &amp; Disclosure Programs and Write-ups.
 
 ### Insecure Direct Object Reference (IDOR)
 
-### 2FA Related issues
+### 2FA bypass
+
+* [How I Might Have Hacked Any Microsoft Account](https://thezerohack.com/how-i-might-have-hacked-any-microsoft-account)
+* [Is Math.random() Safe? from missing rate limit to bypass 2fa and possible sqli](https://neroli.medium.com/is-math-random-safe-from-missing-rate-limit-to-bypass-2fa-and-possible-sqli-2a4ea66f82c5)
+* [Cracking the 2FA](https://medium.com/@rushikesh12gaikwad/cracking-the-2fa-215d24ccb29b)
+* [How I bypassed 2fa in a 3 years old private program!](https://shivangx01b.github.io/2fa_bypass/)
+* [Bypass 2FA like a Boss](https://infosecwriteups.com/bypass-2fa-like-a-boss-378787707ba)
+* [Two Factor Authentication Bypass $5](https://aungpyaekoko.medium.com/two-factor-authentication-bypass-50-5b397e68cfed)
+* [2 FA Bypass via CSRF Attack](https://vbharad.medium.com/2-fa-bypass-via-csrf-attack-8f2f6a6e3871)
+* [How to bypass a 2FA with a HTTP header](https://medium.com/@YumiSec/how-to-bypass-a-2fa-with-a-http-header-ce82f7927893)
+* [Bypass HackerOne 2FA requirement and reporter blacklist](https://medium.com/japzdivino/bypass-hackerone-2fa-requirement-and-reporter-blacklist-46d7959f1ee5)
 
 ### Server Side Request Forgery (SSRF)
 
