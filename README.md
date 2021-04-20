@@ -50,6 +50,19 @@ A list of available Bug Bounty &amp; Disclosure Programs and Write-ups.
 
 ### Insecure Direct Object Reference (IDOR)
 
+* [How I made it to Google HOF?](https://infosecwriteups.com/how-i-made-it-to-google-hof-f1cec85fdb1b)
+* [An Interesting Account Takeover!!](https://mayank-01.medium.com/an-interesting-account-takeover-3a33f42d609d)
+* [IDOR Vulenebility with empty response still exposing sensitive details of customers!](https://rahulvarale.medium.com/idor-vulenebility-with-empty-response-still-exposing-sensitive-details-of-customers-bdce0a6a1b07)
+* [Exploiting CORS to perform an IDOR Attack leading to PII Information Disclosure](https://notmarshmllow.medium.com/exploiting-cors-to-perform-an-idor-attack-leading-to-pii-information-disclosure-95ef21ecf8ee)
+* [Story of a very lethal IDOR.](https://infosecwriteups.com/idor-that-allowed-me-to-takeover-any-users-account-129e55871d8)
+* [Full account takeover worth $1000 Think out of the box](https://mokhansec.medium.com/full-account-takeover-worth-1000-think-out-of-the-box-808f0bdd8ac7)
+* [IDOR via Websockets allow me to takeover any users account](https://mokhansec.medium.com/idor-via-websockets-allow-me-to-takeover-any-users-account-23460dacdeab)
+* [An Interesting Account Takeover Vulnerability](https://avanishpathak46.medium.com/an-interesting-account-takeover-vulnerability-a1fbec0e01a)
+* [The YouTube bug that allowed unlisted uploads to any channel](https://infosecwriteups.com/the-youtube-bug-that-allowed-uploads-to-any-channel-3b41c7b7902a)
+* [My first bug on Google](https://infosecwriteups.com/my-first-bug-on-google-observation-wins-1a13d0ea54b0)
+* [Accidental Observation to Critical IDOR](https://infosecwriteups.com/accidental-observation-to-critical-idor-d4d910a855bf)
+
+
 ### 2FA bypass
 
 * [How I Might Have Hacked Any Microsoft Account](https://thezerohack.com/how-i-might-have-hacked-any-microsoft-account)
@@ -61,6 +74,7 @@ A list of available Bug Bounty &amp; Disclosure Programs and Write-ups.
 * [2 FA Bypass via CSRF Attack](https://vbharad.medium.com/2-fa-bypass-via-csrf-attack-8f2f6a6e3871)
 * [How to bypass a 2FA with a HTTP header](https://medium.com/@YumiSec/how-to-bypass-a-2fa-with-a-http-header-ce82f7927893)
 * [Bypass HackerOne 2FA requirement and reporter blacklist](https://medium.com/japzdivino/bypass-hackerone-2fa-requirement-and-reporter-blacklist-46d7959f1ee5)
+
 
 ### Server Side Request Forgery (SSRF)
 
