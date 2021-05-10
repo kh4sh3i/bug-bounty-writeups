@@ -48,6 +48,21 @@ A list of available Bug Bounty &amp; Disclosure Programs and Write-ups.
 
 ### SQL injection
 
+* [Fun sql injection — mod_security bypass](https://infosecwriteups.com/fun-sql-injection-mod-security-bypass-644b54b0c445)
+* [How I Found Sql Injection on 8x8 , Cengage,Comodo,Automattic,20 company](https://ahmadaabdulla.medium.com/how-i-found-sql-injection-on-8x8-cengage-comodo-automattic-20-company-c296d1a09f63)
+* [Admin Panel Accessed Via SQL Injection…](https://medium.com/@ratnadip1998/admin-panel-accessed-via-sql-injection-ezy-boooom-57dc60c2815f)
+* [Sql Injection via hidden parameter](https://hajarerutik9.medium.com/sql-injection-via-hidden-parameter-6da7699248fc)
+* [Time Based Blind SQL Injection](https://marxchryz.medium.com/my-bug-bounty-journey-and-my-first-critical-bug-time-based-blind-sql-injection-aa91d8276e41)
+* [How i got easy $$$ for SQL Injection Bug](https://rafipiun.medium.com/how-i-got-easy-for-sql-injection-bug-7ff622236e4c)
+* [Turning Blind Error Based SQL Injection into Exploitable Boolean One](https://ozguralp.medium.com/turning-blind-error-based-sql-injection-into-an-exploitable-boolean-one-85d6be3ca23b)
+* [SQL Injection & Remote Code Execution - Double P1](https://shahjerry33.medium.com/sql-injection-remote-code-execution-double-p1-6038ca88a2ec)
+* [double qoute injection](https://medium.com/sud0root/bug-bounty-writeups-exploiting-sql-injection-vulnerability-20b019553716)
+* [Akamai Web Application Firewall Bypass Journey: Exploiting “Google BigQuery” SQL Injection Vulnerability](https://hackemall.live/index.php/2020/03/31/akamai-web-application-firewall-bypass-journey-exploiting-google-bigquery-sql-injection-vulnerability/)
+* [Blind (time-based) SQLi - Bug Bounty](https://jspin.re/fileupload-blind-sqli/)
+* [SQL injection through User-Agent](https://medium.com/@frostnull/sql-injection-through-user-agent-44a1150f6888)
+* [Comma is forbidden! No worries!! Inject in insert/update queries without it](https://blog.redforce.io/sql-injection-in-insert-update-query-without-comma/)
+
+
 ### Insecure Direct Object Reference (IDOR)
 
 * [How I made it to Google HOF?](https://infosecwriteups.com/how-i-made-it-to-google-hof-f1cec85fdb1b)
