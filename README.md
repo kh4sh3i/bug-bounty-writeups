@@ -89,6 +89,7 @@ A list of available Bug Bounty &amp; Disclosure Programs and Write-ups.
 * [2 FA Bypass via CSRF Attack](https://vbharad.medium.com/2-fa-bypass-via-csrf-attack-8f2f6a6e3871)
 * [How to bypass a 2FA with a HTTP header](https://medium.com/@YumiSec/how-to-bypass-a-2fa-with-a-http-header-ce82f7927893)
 * [Bypass HackerOne 2FA requirement and reporter blacklist](https://medium.com/japzdivino/bypass-hackerone-2fa-requirement-and-reporter-blacklist-46d7959f1ee5)
+* [2FA Bypass via Forced Browsing](https://infosecwriteups.com/2fa-bypass-via-forced-browsing-9e511dfdb8df)
 
 
 ### Server Side Request Forgery (SSRF)
