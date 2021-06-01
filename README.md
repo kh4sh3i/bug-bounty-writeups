@@ -61,6 +61,7 @@ A list of available Bug Bounty &amp; Disclosure Programs and Write-ups.
 * [Blind (time-based) SQLi - Bug Bounty](https://jspin.re/fileupload-blind-sqli/)
 * [SQL injection through User-Agent](https://medium.com/@frostnull/sql-injection-through-user-agent-44a1150f6888)
 * [Comma is forbidden! No worries!! Inject in insert/update queries without it](https://blog.redforce.io/sql-injection-in-insert-update-query-without-comma/)
+* [Hey WAF! Better Luck Next Time! 👽](https://akashroxstarz.medium.com/hey-waf-better-luck-next-time-a1df7f444863)
 
 
 ### Insecure Direct Object Reference (IDOR)
